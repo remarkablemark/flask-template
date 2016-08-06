@@ -1,6 +1,6 @@
 # flask-template
 
-A quickstart Flask template.
+A quickstart [Flask](http://flask.pocoo.org) template.
 
 ### Install
 
